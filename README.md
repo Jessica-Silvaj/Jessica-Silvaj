@@ -5,8 +5,8 @@
 Olá! Sou **Jéssica Silva**, formada em **Sistemas de Informação** e com **4 anos de experiência** em desenvolvimento de software. Ao longo da minha carreira, trabalhei com diversas tecnologias tanto no front-end quanto no back-end, sempre com o foco em criar soluções robustas, escaláveis e de alta qualidade.
 
 ### 📚 Habilidades e Tecnologias
-- **Front-End**: HTML, CSS, JavaScript, ReactJS
-- **Back-End**: Laravel (PHP), .NET (C#), Java, JavaScript (Node), TypeScript, React
+- **Front-End**: HTML, CSS, JavaScript
+- **Back-End**: Laravel (PHP), .NET (C#), Java, JavaScript (Node), TypeScript, ReactJS
 - **Bancos de Dados**: Oracle
 - **Outras Tecnologias**: Conhecimento básico em Lua
 - **Boas Práticas**: Código limpo, Reusabilidade, Manutenção e Performance
