@@ -6,7 +6,7 @@ Olá! Sou **Jéssica Silva**, formada em **Sistemas de Informação** e com **4 
 
 ### 📚 Habilidades e Tecnologias
 - **Front-End**: HTML, CSS, JavaScript
-- **Back-End**: Laravel (PHP), .NET (C#), Java, JavaScript (Node), TypeScript, ReactJS
+- **Back-End**: Laravel (PHP), .NET (C#), Java, JavaScript (Node), TypeScript, ReactJS, VueJS
 - **Bancos de Dados**: Oracle
 - **Outras Tecnologias**: Conhecimento básico em Lua
 - **Boas Práticas**: Código limpo, Reusabilidade, Manutenção e Performance
