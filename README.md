@@ -15,7 +15,7 @@ Olá! Sou **Jéssica Silva**, formada em **Sistemas de Informação** e com **4 
 ### 🛠 Ferramentas que utilizo
 - **IDEs**: IntelliJ IDEA, Visual Studio Code
 - **Versionamento**: Git, GitHub
-- **Bancos de Dados**: Oracle
+- **Bancos de Dados**: Oracle, Mysql, Postgres, PGAdmin
 - **Ferramentas de Deploy**: Docker, Kubernetes, Jenkins
 
 ## 🧑‍💻 Experiência Profissional
@@ -27,7 +27,7 @@ Além disso, tenho experiência prática com o banco de dados **Oracle**, gerenc
 ### Projetos:
 1. **Sistema de Cadastro de Usuários**: Criação de um sistema full-stack utilizando **Laravel (PHP)** e **Oracle**.
 2. **Plataforma de E-commerce**: Desenvolvimento de uma plataforma de e-commerce utilizando **Laravel (PHP)** e integração com **Oracle**.
-3. **Aplicação Web com .NET (C#)**: Desenvolvimento de uma aplicação full-stack utilizando **.NET (C#)** no back-end e integração com **Oracle**.
+3. **Aplicação Web com .NET (C#)**: Desenvolvimento de uma aplicação full-stack utilizando **.NET (C#)** no back-end e integração com **Postgres**.
 
 ## 💡 Áreas de Interesse
 - **Desenvolvimento Web & Mobile**
